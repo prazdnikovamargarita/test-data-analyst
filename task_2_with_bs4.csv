@@ -1,0 +1,12 @@
+course_name,course_description,course_duration,course_tags,url,course_modules_count,theme_number
+UI/UX designer,Створюй візуально привабливі та інтуїтивно зрозумілі для користувачів дизайни інтерфейсів.,4+ місяці,"Популярна, Без кодингу",/courses/ui-ux?source=profession_card,13,98
+Data analyst,"Аналізуй дані, які допоможуть бізнесу приймати обґрунтовані рішення на основі тенденцій і фактів.",4+ місяці,"Нова, Без кодингу",/courses/data-analytics?source=profession_card,16,126
+QA engineer,"Перевіряй програмне забезпечення на помилки, щоб користувачі отримали якісний продукт.",3+ місяці,Популярна,/courses/qa?source=profession_card,23,176
+Python developer,"Пиши й підтримуй код на Python для різного програмного забезпечення, аналізу даних і машинного навчання.",4+ місяці,Кодинг,/courses/python?source=profession_card,21,193
+Digital marketer,"Створюй маркетингові кампанії, щоб допомагати бізнесу ставати впізнаваним і розвивати свій бренд.",3+ місяці,Без кодингу,/courses/digital-marketing?source=profession_card,11,73
+Front-end developer,"Розробляй видимі частини вебсторінок і мобільних застосунків, щоб кожен клік і скрол були плавними.",5+ місяців,Кодинг,/courses/frontend?source=profession_card,23,166
+Full-stack developer,Розробляй продукт самостійно — від створення видимої частини (frontend) до серверної (backend).,5+ місяців,Кодинг,/courses/fullstack?source=profession_card,26,195
+DevOps engineer,"Налагоджуй інструменти і процеси, щоб програмне забезпечення швидше доходило до користувачів.",4+ місяці,Кодинг,/courses/devops?source=profession_card,21,183
+Java developer,"Розробляй надійне програмне забезпечення на Java, працюй з базами даних і серверною логікою.",4+ місяці,Кодинг,/courses/java?source=profession_card,19,192
+Recruiter,Шукай і знаходь талановитих кандидатів для конкретних ролей і допомагай адаптуватись новачкам.,4+ місяці,Без кодингу,/courses/recruitment?source=profession_card,9,48
+Automation QA engineer,"Створюй автоматизовані тести, щоб швидко виявляти помилки та перевіряти якість програмного забезпечення.",3+ місяці,"Нова, Просунута",/courses/qa-automation?source=profession_card,14,120
